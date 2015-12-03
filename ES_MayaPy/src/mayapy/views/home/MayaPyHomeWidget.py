@@ -52,7 +52,7 @@ class MayaPyHomeWidget(PyGlassWidget):
 
 #___________________________________________________________________________________________________ _handleAssignment2
     def _handleAssignment2(self):
-        self.mainWindow.setActiveWidget('assignment2')
+        self.mainWindow.setActiveWidget('assignment5')
 
 #___________________________________________________________________________________________________ _handleLegoAnim
     def _handleLegoAnim(self):

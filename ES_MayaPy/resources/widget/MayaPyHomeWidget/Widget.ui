@@ -27,7 +27,7 @@
       <item>
        <widget class="QPushButton" name="assignment2Btn">
         <property name="text">
-         <string>Assignment 2</string>
+         <string>Assignment 5</string>
         </property>
        </widget>
       </item>
